@@ -6,6 +6,7 @@ class TodoList extends Component {
         return (
             <section>
                 <h2> todo list</h2>
+                <p>hello</p>
                 <Item/>
             </section>
 
